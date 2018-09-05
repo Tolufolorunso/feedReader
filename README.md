@@ -6,16 +6,20 @@
  
 ### RSS Feed
  
-..* To make sure that the allFeeds variable has been defined 
-..* To make sure that the allFeeds have a url and that url is not empty 
-..* To make sure that the allFeeds have a name and that name is not empty 
+* To make sure that the allFeeds variable has been defined 
+* To make sure that the allFeeds have a url and that url is not empty 
+* To make sure that the allFeeds have a name and that name is not empty 
 
 ### The Menu
 
-..* A test that ensures the menu element is hidden by default 
-..* I wrote a test that show or hide the menu when the menu icon clicked
+* A test that ensures the menu element is hidden by default 
+* I wrote a test that show or hide the menu when the menu icon clicked
 
 
 ### Initial Entries
 
-..* To test if the loadfeed function has
+* To test if the loadfeed function has at least one entry
+
+### New Feed Selection
+
+* Feed content changes when new feed is selected.
